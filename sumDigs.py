@@ -3,7 +3,7 @@ summ = 0
 
 while number != 0:
     summ += number % 10
-    number /= 10
+    number //= 10
 
 
 
