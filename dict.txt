@@ -1,0 +1,5 @@
+"hello" barev
+"bye" ctesutyun
+"dictionary" bararan
+"list" cucak
+"linked" kapvac
